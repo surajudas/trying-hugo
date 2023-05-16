@@ -1,7 +1,6 @@
 # Hugo + Cloudflare pages
 
 background: I was thinking of making a quick web project to write essayesque things on and while looking for some inspiration by other devs I stumbled across cloudflare pages and decided to try it out along with hugo (another thing I wanted to try out)
----
 
 ## Procedure
 
@@ -27,5 +26,5 @@ The whole thing is real *fast* both the build process and the final static site 
 - write a script or something along those lines to 
   - Create the font matter automatically in the markdown editor I chose to use
   - Single command to publish new page written and then show the deployment when complete 
-  
+
 > note to self use `draft: true` in fontmatter to write what on my mind without worrying about polish
